@@ -52,8 +52,6 @@ h4 {
 .showcase-titlebox h4 {
   white-space: nowrap;
   font-size: clamp(10px, 2.3vw, 16px);
-  padding-top: 2px;
-  padding-bottom: 2px;
 }
 
 .video_boy {
